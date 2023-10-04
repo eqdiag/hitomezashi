@@ -9,3 +9,6 @@ Inspired by numberphile video: https://www.youtube.com/watch?v=JbfhzlMk2eY&ab_ch
 git clone https://github.com/eqdiag/hitomezashi
 cargo run
 ```
+
+# Demo
+![Demo](demo.gif "Demo")
