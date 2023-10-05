@@ -11,4 +11,5 @@ cargo run
 ```
 
 # Demo
-![Demo](demo.gif "Demo")
+![Demo](https://github.com/eqdiag/hitomezashi/assets/95448313/5ecdfe3b-730c-43f6-bf68-633212e8ed6d)
+
